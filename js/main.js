@@ -172,7 +172,7 @@ function createCardGood(goods) {
 
     <div class="card-buttons">
       <button class="button button-primary">
-        <span class="button-card-text">В кошик</span>
+        <span class="button-card-text">В корзину</span>
         <img
           src="img/store.svg"
           alt="shopping-cart"
